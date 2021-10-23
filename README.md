@@ -41,12 +41,6 @@ Ver7 contains the trained weights for the tennis ball tracking video and the Ten
   ![Screenshot_35](https://user-images.githubusercontent.com/49316145/113856512-faaaa580-97be-11eb-90f4-73ceab8c6dee.png)
 
 
-  
-### Additional:
->**Openpose paper:** Z. Cao, G. Hidalgo, T. Simon, S. -E. Wei and Y. Sheikh, "OpenPose: Realtime Multi-Person 2D Pose Estimation Using Part Affinity Fields," in IEEE >Transactions on Pattern Analysis and Machine Intelligence, vol. 43, no. 1, pp. 172-186, 1 Jan. 2021, doi: 10.1109/TPAMI.2019.2929257. <br />
->**Openpose implementation:** https://github.com/CMU-Perceptual-Computing-Lab/openpose <br />
->This was implemented additionally in the object tracking video clips for player pose analysis.
-
 ### Input/Output data playlist:
 https://www.youtube.com/watch?v=wdDROcUAsiw&list=PLan-29mX9agax7fbI3juHbcQqX1_N_1bm
 
